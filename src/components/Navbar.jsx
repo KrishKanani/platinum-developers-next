@@ -193,7 +193,7 @@ const Navbar = () => {
                     </ListItemText>
                   </ListItemButton>
                   <ListItemButton
-                    // href="/about-us"
+                    href="/about"
                     sx={{
                       "&:hover": { borderRadius: "6px" },
                     }}

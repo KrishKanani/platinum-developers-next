@@ -2,11 +2,11 @@
 import { Box, Typography } from "@mui/material";
 import React from "react";
 
-import AboutHero from "../../assets/AboutHero.jpg";
+import AboutHero from "../assets/AboutHero.jpg";
 import { useTheme } from "@mui/material/styles";
 
 //IMPORTING DATA
-import data from "../../data.json";
+import data from "../data.json";
 
 //IMPORTING ICONS
 import DomainOutlinedIcon from "@mui/icons-material/DomainOutlined";
